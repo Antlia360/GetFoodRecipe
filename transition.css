@@ -85,18 +85,29 @@ nav ul{
 
 .container1 .card-block p{
 	color: #FFFE00;
-	font-family: 'Sacramento';
+	font-family: 'Acme', sans-serif;
 }
 
-.container1 .card-title{
+.container1 .card-title u{
+	text-align: center;
 	color:#11FF00;
+	 font-family: 'Merriweather', serif;
 }
+.container1 .card-title i{
+	color:#29D0DF;
+	 
+}
+
 #appStoreIcon {
               
    width: 200px;
    border-radius: 8%;
               
 }
+span{
+font-family: 'Open Sans', sans-serif;
+}
 #jumbotron h2{
     color: #41FC5D;
+    font-family: 'Orbitron', sans-serif;
 }
