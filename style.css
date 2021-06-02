@@ -165,7 +165,6 @@ body{
     width: 90%;
     height: 90%;
     overflow-y: scroll;
-    overflow-x: hidden;
     display: none;
     padding: 2rem 0;
 }
